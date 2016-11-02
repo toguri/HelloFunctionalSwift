@@ -1,0 +1,2 @@
+# HelloFunctionalSwift
+Functional Swiftを読みながら例文を実装するやーつ
